@@ -200,7 +200,7 @@ function Footer() {
                         </div>
                     </div>
                     <hr style={{ color: colors.grey[300], }} />
-                    <div className='copy-right d-flex justify-content-between flex-wrap my-4'>
+                    <div className='copy-right d-flex justify-content-between align-items-center flex-wrap my-4'>
                         <Copyright />
                         <DropdownButton variant='outline-primary' title="English">
                             <Dropdown.Item href="#/action-1">English</Dropdown.Item>
